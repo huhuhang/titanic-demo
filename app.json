@@ -1,0 +1,7 @@
+{
+  "name": "Titanic",
+  "description": "Titanic Prediction",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/titanic-demo",
+  "keywords": ["python", "flask" ]
+}

@@ -1,4 +1,5 @@
 flask
 scikit-learn
 pandas
-google-cloud-storage
+gunicorn
+requests
