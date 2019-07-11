@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Titanic Prediction</h1>
+  <h1>🛳 Titanic Prediction</h1>
 </div>
 
 <br />
