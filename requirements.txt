@@ -1,5 +1,5 @@
 flask
-scikit-learn
+scikit-learn==0.21
 pandas
 gunicorn
 requests
