@@ -16,7 +16,7 @@ sample = [{"pclass": 1, "sex": "male", "embarked": "C"},
           {"pclass": 3, "sex": "male", "embarked": "Q"},
           {"pclass": 3, "sex": "female", "embarked": "S"}]
           
-requests.post(url="https://titanic-demo.herokuapp.com", json=sample).content
+requests.post(url="https://titanic-demo.onrender.com", json=sample).content
 ```
 
 ```json
